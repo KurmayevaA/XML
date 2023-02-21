@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+	<percon> 
+		<name>Alexandra</name>
+		<age>28</age>
+		<born>Kazakhstan</born>
+		<salary>1000000</salary>
+	</percon>
+	
+	<family>
+		<mom>Lubov</mom>
+		<sister>Galina</sister>
+		<husband>Emil</husband>
+		<cat>Begemot</cat>
+	</family>
+	
+	
+</main>
