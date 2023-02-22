@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+	<person> 
+		<name>Alexandra</name>
+		<age>28</age>
+		<born>Kazakhstan</born>
+	</person>
+	
+	<favorite_movies>
+		<movie_1>Harry Potter and the Philosopher's Stone</movie_1>
+		<movie_2>The Hangover</movie_2>
+		<movie_3>Lost</movie_3>
+	</favorite_movies>
+
+	<favorite_series> 
+		<serial_1>Modern Family</serial_1>
+		<serial_2>Sabrina, the Teenage Witch</serial_2>
+		<serial_3>The Big C</serial_3>
+	</favorite_series> 
+	
+	<favorite_countries> 
+		<country_1>Spain</country_1>
+		<country_2>Nepal</country_2>
+		<country_3>Japan</country_3>
+	</favorite_countries> 
+	
+	<pet>cat Begimot</pet> 
+	
+</main>
