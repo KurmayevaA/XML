@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skills>
+  <skill>Knowledge of the XML markup language</skill>
+  <skill>Ability to create XML documents</skill>
+  <skill>Understanding of key XML components, such as elements, attributes, namespaces, processing instructions, and comments</skill>
+  <skill>Ability to use XML syntax to create documents with a defined structure</skill>
+  <skill>Understanding of XML validation principles and use of appropriate tools to validate documents</skill>
+  <skill>Knowledge of the XSLT language for transforming XML documents into various output formats</skill>
+  <skill>Understanding of the XPath language for accessing elements and attributes of XML documents</skill>
+  <skill>Ability to use XML schemas to define the structure and validate XML documents</skill>
+  <skill>Knowledge of XML-based data exchange formats such as RSS, Atom, and SOAP</skill>
+  <skill>Ability to use APIs for working with XML documents in programming languages such as Java and Python</skill>
+</skills>
