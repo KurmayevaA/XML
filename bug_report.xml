@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bug_report id="G1">
+	<tester>Alexandra</tester>
+  <summary>When registering, when choosing the date of birth of the user, it is possible to choose a nonexistent date</summary>
+  <steps>
+    <step_1>Open the registration form</step_1>
+    <step_2>Select a country</step_2>
+    <step_3>Press [Continue]</step_3>
+    <step_4>Enter date of birth 31/02/1990 in the field</step_4>
+  </steps>
+  <actual_result>When entering a nonexistent date, validation is triggered. An error message appears.</actual_result>
+  <expected_result>When filling in the field with a non-existent date, validation is triggered, informing the user about entering the correct date.</expected_result>
+  <attachment>https://drive.google.com/file/d/12vpUK04rba_m8HBH--yJ4eC7xFZ5ki5z/view?usp=sharing</attachment>
+</bug_reporit>
+
